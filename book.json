@@ -1,0 +1,23 @@
+{
+    "title": "shawn's Glory",
+    "author": "shawn",
+    "description": "select * from learn",
+    "language": "zh-hans",
+    "structure": {
+        "readme": "README.md"
+    },
+    "links": {
+        "sidebar": {
+            "baidu": "www.baidu.com"
+        }
+    },
+    "plugins": [
+        "-sharing",
+        "github"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/Shawn-zhu/gitbook"
+        }
+    }
+}
